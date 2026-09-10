@@ -39,7 +39,7 @@ Shared layers: [fons](https://github.com/wilsonpruitt/fons) (the text) · [recep
 - [**GC Petition System**](https://github.com/wilsonpruitt/gc-petition-system): drafting petitions to General Conference
 - [**Discerning a Call**](https://github.com/wilsonpruitt/discerning-a-call): for anyone sensing a call to ministry
 - [**Orders of Elders and Deacons**](https://github.com/wilsonpruitt/order-of-elders) · [**Membership Audit**](https://github.com/wilsonpruitt/membership-audit) · [**Lay Ministry**](https://github.com/wilsonpruitt/layministry-site)
-- **Rio Texas:** [Atlas](https://github.com/wilsonpruitt/rio-texas-journal) · [Resolutions](https://github.com/wilsonpruitt/rio-texas-resolutions) · [Field Guide](https://github.com/wilsonpruitt/field-guide) · [AC Guide](https://github.com/wilsonpruitt/ac-guide) · [North District Resources](https://github.com/wilsonpruitt/north-district-resources)
+- **Rio Texas:** [Atlas](https://github.com/wilsonpruitt/rio-texas-journal) · [Resolutions](https://github.com/wilsonpruitt/rio-texas-resolutions) · [Field Guide](https://github.com/wilsonpruitt/field-guide) · [North District Resources](https://github.com/wilsonpruitt/north-district-resources)
 - [**Difficult Passages**](https://github.com/wilsonpruitt/difficult-passages): a pastoral reference
 
 ## Learning, community, games
