@@ -30,6 +30,7 @@ Shared layers: [fons](https://github.com/wilsonpruitt/fons) (the text) · [recep
 - [**Wesley Corpus**](https://github.com/wilsonpruitt/wesley-corpus) · [corpus.historyofmethodism.com](https://corpus.historyofmethodism.com): John and Charles Wesley, clean and searchable
 - [**KJV + Wesley's Notes**](https://github.com/wilsonpruitt/kjv-wesley) · [notes.historyofmethodism.com](https://notes.historyofmethodism.com)
 - [**Sermons**](https://github.com/wilsonpruitt/sermons-site) · [sermons.wilsonpruitt.com](https://sermons.wilsonpruitt.com)
+- [**Laureates for the Pulpit**](https://github.com/wilsonpruitt/nobel) · [nobel.wrootpress.com](https://nobel.wrootpress.com): recent Nobel Prizes, plainly, for Wesleyan preachers
 
 ## United Methodist tools
 
